@@ -18,3 +18,6 @@ Then, once the user, chooses a password length between 8-128 and at least one ch
 > In this example, the user chose a password of 10 characters with a mix of Uppercase, Lowercase, numerical and special character characters.
 
 All of the functionality of this webpage, was done using JavaScript. Please find in the JavaScript file comments that explain each line of code. 
+
+## Link to Password Generator Website: 
+[Password Generator Website](https://savannahfausto.github.io/Random_Password_Generator/)
