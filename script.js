@@ -11,7 +11,7 @@ var specialChars = ["!", '"', "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", 
 function generatePassword() {
   
   //prompt to ask for desired length of password 
-  var characterLength = Number(prompt("Please chooose a password length of at least 8 characters and no more than 128 characters."));
+  var characterLength = Number(prompt("Please choose a password length of at least 8 characters and no more than 128 characters."));
   //if click cancel after first prompt, then end function
   if (!characterLength) {
     return;
